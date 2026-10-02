@@ -1,2 +1,3 @@
 # Catty
-Deobfuscator XD
+
+Deobfuscator for Lua/Luau Obfuscator
